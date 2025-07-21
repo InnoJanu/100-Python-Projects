@@ -1,2 +1,2 @@
 # 100-Python-Projects
-This repository contains 100 projects I've build from tutorials.
+Adding a 100 python projects from tutorials until I get to a 100...
